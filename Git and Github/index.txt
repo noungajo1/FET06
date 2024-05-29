@@ -1,2 +1,10 @@
-je suis le meilleur
-we are the champion
+Jared
+Burgers
+
+Steps
+git add .
+git commit -m "description/message"
+git push -u origin master
+
+Another line of code, features
+New change

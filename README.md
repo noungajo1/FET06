@@ -1,2 +1,2 @@
 # FET06
-basic frontend web developer
+Hello, this is Jonathan's repository. Here we will learn the basic of frontend web developer.

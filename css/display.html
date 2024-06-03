@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display property</title>
+    <style>
+        .block{
+            display: block;
+            background-color: lightgreen;
+            width: 200px;
+            padding: 10px;
+            margin: 10px;
+        }
+/* take the smallest spacing to fit the content*/
+        .inline{
+            display: inline;
+            background-color: aquamarine;
+            width: 400px;/*does not work*/
+            padding: 10px;
+            margin-right: 10px;
+
+        }
+        .inline-block{
+            display: inline-block;
+            background-color: lightsalmon;
+            width: 200px;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <!-- display -->
+    <div class="block">
+This is a block element
+    </div>
+    <div class="inline">This is an inline element
+        <div class="inline-block">This is an inline block</div>
+    </div>
+</body>
+</html>

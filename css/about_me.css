@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(95, 86, 86);
+}
+.header-style{
+   
+    color: blue;
+}
+.yellow-text{
+    color: yellow;
+}
+
+.red-text{
+    color: red;
+}
+* {
+    color: white;
+}
